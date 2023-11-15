@@ -5,7 +5,7 @@
 
 A transparent & shielded custom token in Leo.
 
-## How to Run
+## How to Run?
 
 Follow the [Leo Installation Instructions](https://developer.aleo.org/leo/installation).
 
